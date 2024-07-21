@@ -43,7 +43,7 @@ TBA
 
 ## References
 
-Peter Dirix, "The need for a large(r) Afrikaans treebank". In Ian Bekker and Theresa Biberauer, "Ex Africa semper aliquid novi: Linguistic shorts in honour of Andries Coetzee on his 50th birthday", Stellenbosch Papers in Linguistics Plus Vol. ? (2022, to be published)
+Peter Dirix (2023). "The need for a larger Afrikaans treebank." In: Ian Bekker and Theresa Biberauer (eds.), "Ex Africa semper aliquid novi: Linguistic shorts in honour of Andries Coetzee on his 50th birthday - Part I", Stellenbosch Papers in Linguistics Plus, 67, pp. 1-2, 2023, Stellenbosch University, Stellenbosch, ISSN 2224-3380.
 
 ## License: 
  [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
